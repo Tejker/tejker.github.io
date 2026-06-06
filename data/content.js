@@ -32,7 +32,7 @@ const PORTFOLIO_DATA = {
       badge: "Robotics · Systems Integration",
       award: "🥉 Inter IIT Tech Meet 14.0 · Bronze Medal",
       featured: true,
-      image: "assets/images/projects/rover.jpg",
+      image: "assets/images/projects/rover.png",
       description: "Led full hardware design and integration of an autonomous rover for automated warehouse shelf scanning, built for the Inter IIT Tech Meet 14.0 problem statement by Eternal.",
       highlights: [
         "End-to-end hardware integration: chassis, motors, sensors, actuators, and controllers",
