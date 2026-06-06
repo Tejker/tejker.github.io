@@ -98,18 +98,19 @@ const PORTFOLIO_DATA = {
     },
 
     {
-      title: "Acoustic Tracking & Target Identification System (ATTIS)",
-      badge: "Acoustic Engineering · ESP32",
+      title: "3D-Printed Quadruped Robot Design and Development",
+      badge: "Robotics · Legged Systems · Machine Elements",
       award: "",
       featured: false,
-      image: "assets/images/projects/attis.jpg",
-      description: "An ESP32-based acoustic localization system using a 3-microphone array and a custom parabolic reflector to estimate sound source direction using signal amplitude and phase differencing.",
+      image: "assets/images/projects/quadruped.jpg",
+      description: "Designed and developed a quadruped robot employing a 4-bar linkage mechanism for efficient leg actuation and balance, as part of the Design of Machine Elements course project.",
       highlights: [
-        "3-microphone array + ESP32 for real-time acoustic localization",
-        "Parabolic sound-receiving structure for enhanced signal gain",
-        "Embedded signal processing using amplitude and phase differences for direction estimation"
+        "4-bar linkage mechanism for efficient leg actuation and balance",
+        "Hardware integration involving servo motors, power architecture, system assembly, and overall testing",
+        "Implemented crawl and diagonal-pair gait control strategies for stable quadrupedal locomotion using Arduino",
+        "Collaborated on kinematic analysis, force calculations, and simulation of critical structural components"
       ],
-      tech: ["ESP32", "Microphone Array", "Signal Processing", "Acoustic Localization", "Embedded C"],
+      tech: ["Arduino", "Servo Motors", "3D Printing", "Kinematic Analysis", "Gait Control", "SolidWorks"],
       github: "https://github.com/Tejker",
       demo: ""
     },
