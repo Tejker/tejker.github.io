@@ -58,7 +58,7 @@ const PORTFOLIO_DATA = {
         "Real-time GUI to monitor flight parameters during the CubeSat's flight"
       ],
       tech: ["PCB Design", "Sensor Integration", "Embedded C", "Python GUI", "Telemetry"],
-      github: "https://github.com/Tejker",
+      github: "https://github.com/Tejker/CubeSat",
       demo: ""
     },
 
@@ -111,7 +111,7 @@ const PORTFOLIO_DATA = {
         "Collaborated on kinematic analysis, force calculations, and simulation of critical structural components"
       ],
       tech: ["Arduino", "Servo Motors", "3D Printing", "Kinematic Analysis", "Gait Control", "SolidWorks"],
-      github: "https://github.com/Tejker",
+      github: "https://github.com/Tejker/3D-Printed-Quadruped-Robot-with-Four-bar-mechanism",
       demo: ""
     },
 
@@ -128,7 +128,7 @@ const PORTFOLIO_DATA = {
         "Calibrated sensor responses across varying lighting conditions"
       ],
       tech: ["Microcontroller", "IR Sensors", "Color Sensor", "Embedded C", "PID Control"],
-      github: "https://github.com/Tejker",
+      github: "https://github.com/Tejker/Color-sensing-line-follower-robot",
       demo: ""
     }
 
