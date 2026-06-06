@@ -13,7 +13,7 @@ const PORTFOLIO_DATA = {
       award: "🔬 Research Project · ARIES, Nainital",
       featured: true,
       // ↓ Add your image: put the file in assets/images/projects/ and update the path
-      image: "assets/images/projects/telescope.jpg",   // or set to "" to show placeholder
+      image: "assets/images/projects/telescope.png",   // or set to "" to show placeholder
       description: "Developed a hybrid fault detection system for the azimuth and altitude drive motors of India's largest optical telescope — the 3.6m Devasthal Telescope — enabling proactive fault prediction before catastrophic failure.",
       highlights: [
         "Ensemble anomaly detector combining LSTM Autoencoder, Random Forest, Isolation Forest & One-Class SVM with rolling-window time-series features",
