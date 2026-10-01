@@ -1,0 +1,18 @@
+main:
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Achievements"
+    url: /achievements/
+
+  - title: "CV"
+    url: /assets/Tejas_Bhavekar_CV.pdf
