@@ -1,0 +1,72 @@
+title: "Tejas Bhavekar"
+masthead_title: "Tejas Bhavekar"
+email: "bhavekar.tejas@gmail.com"
+
+description: >-
+  Tejas Bhavekar — Mechanical Engineering student at IIT Indore working on
+  robotics, autonomous systems, intelligent machines, and research-driven engineering.
+
+url: "https://tejker.github.io"
+baseurl: ""
+
+repository: "Tejker/tejker.github.io"
+
+github_username: Tejker
+
+minimal_mistakes_skin: "default"
+
+search: false
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
+include:
+  - _pages
+  - _posts
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Tej Bhavekar"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Mechanical Engineering student at IIT Indore working on robotics, autonomous systems, and intelligent machines."
+
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:bhavekar.tejas@gmail.com"
+
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Tejker"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Tejker"
+
+defaults:
+
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
