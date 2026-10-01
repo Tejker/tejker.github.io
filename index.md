@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tej Bhavekar"
+title: "Tejas Bhavekar"
 author_profile: true
 permalink: /
 ---
