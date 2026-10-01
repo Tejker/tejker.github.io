@@ -27,7 +27,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Tej Bhavekar"
+  name: "Tejas Bhavekar"
   avatar: "/assets/images/profile.jpg"
   bio: "Mechanical Engineering student at IIT Indore working on robotics, autonomous systems, and intelligent machines."
 
