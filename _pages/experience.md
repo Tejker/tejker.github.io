@@ -1,3 +1,10 @@
+---
+title: "Experience"
+permalink: /experience/
+layout: single
+author_profile: true
+---
+
 My research experience combines robotics, robot learning, predictive maintenance, and experimental engineering.
 
 Research Experience
