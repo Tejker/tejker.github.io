@@ -14,6 +14,9 @@ repository: "Tejker/tejker.github.io"
 github_username: Tejker
 
 minimal_mistakes_skin: "default"
+sass:
+  sass_dir: assets/css
+  style: compressed
 
 search: false
 
