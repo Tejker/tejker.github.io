@@ -5,17 +5,10 @@ author_profile: true
 permalink: /
 ---
 
-I am a Mechanical Engineering student at IIT Indore with a strong interest in robotics, autonomous systems, intelligent machines, and research-driven engineering.
+I’m a Mechanical Engineering undergraduate at **IIT Indore**, interested in building intelligent machines that interact with and operate in the physical world.
 
-My work spans multidisciplinary projects involving robotic systems, mechanical design, embedded sensing, computer vision, autonomous navigation, and machine learning. I enjoy working at the intersection of hardware and software, turning engineering concepts into systems that can sense, reason, and act.
+My interests lie at the intersection of **robotics, autonomous systems, mechatronics, and intelligent control**. I enjoy working across the engineering stack—from mechanical design and embedded hardware to sensing, perception, and robot learning.
 
-Currently, I am involved in:
+My projects and research span autonomous mobile robots, robot manipulation, model-based prediction, and experimental engineering. I’m particularly interested in how mechanical systems, hardware, and intelligent algorithms come together to create capable and reliable autonomous robots.
 
-- Robotics and autonomous systems
-- Learning from Demonstration and robot manipulation
-- World models and intelligent trajectory selection
-- Computer vision and sensor-based monitoring
-- Mechanical design and mechatronics
-- Embedded control and robotic hardware
-
-I am also the President of the Robotics Club at IIT Indore, where I work with students on robotic systems, hardware development, autonomy, and competition projects.
+Explore the sections below to learn more about my **research experience, projects, technical skills, and achievements**.
