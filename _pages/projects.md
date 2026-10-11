@@ -5,7 +5,14 @@ layout: single
 author_profile: true
 ---
 
-My projects span autonomous robotics, robot learning, mechanical design, embedded systems, and experimental engineering. I enjoy developing complete systems that integrate mechanical structures, electronics, sensing, control, and intelligent algorithms.
+---
+title: "Projects"
+permalink: /projects/
+layout: single
+author_profile: true
+---
+
+My projects span **autonomous robotics, robot learning, mechatronics, and experimental engineering**. I enjoy building complete systems that bring together mechanical design, embedded hardware, sensing, control, and intelligent algorithms.
 
 ## Robotics and Autonomous Systems
 
@@ -13,14 +20,18 @@ My projects span autonomous robotics, robot learning, mechanical design, embedde
 
 *Inter IIT Tech Meet 14.0 · November–December 2025*
 
-- Led the development of an autonomous rover integrating chassis, drive motors, sensors, actuators, and controllers.
+An autonomous mobile robot designed around warehouse rack inventory tasks, combining a mobile platform with a vertical scanning mechanism.
+
+- Led development of the rover's chassis, drive motors, sensors, actuators, and controllers.
 - Implemented a belt-driven vertical scanning mechanism using a stepper motor for multi-level shelf scanning.
-- Integrated encoders, sensors, and custom wiring harnesses for reliable electromechanical operation.
+- Integrated encoders, sensors, and custom wiring harnesses for electromechanical operation.
 - Developed battery monitoring, voltage regulation, and emergency-stop hardware.
 
 ### 3D-Printed Quadruped Robot
 
 *Design of Machine Elements Course Project · January–April 2026*
+
+A four-legged robotic platform exploring linkage-based leg actuation, hardware integration, and coordinated locomotion.
 
 - Developed a quadruped robot using a four-bar linkage mechanism for leg actuation and balance.
 - Led hardware integration, including servo motors, power architecture, assembly, and testing.
@@ -30,6 +41,8 @@ My projects span autonomous robotics, robot learning, mechanical design, embedde
 
 *Academic Project · August 2025–Present*
 
+A mobile cutting platform focused on mechanical design, drive-system integration, and autonomous navigation.
+
 - Designed and assembled a remote-controlled lawn mower using motor drivers, sensors, and embedded hardware.
 - Integrated Raspberry Pi and control circuitry to enable navigation along defined paths.
 - Focused on mechanical structure, drive-system configuration, and hardware integration.
@@ -37,6 +50,8 @@ My projects span autonomous robotics, robot learning, mechanical design, embedde
 ### Micromouse — Maze-Solving Robot
 
 *Robotics Club · July 2024–January 2025*
+
+A compact mobile robot combining onboard sensing, real-time control, and custom electronics for maze navigation.
 
 - Integrated ultrasonic, IMU, and time-of-flight sensors for obstacle avoidance.
 - Used a hybrid STM32–Arduino architecture for hardware integration and real-time control.
@@ -46,24 +61,32 @@ My projects span autonomous robotics, robot learning, mechanical design, embedde
 
 *Makerspace Lab, IIT Indore · March–April 2024*
 
+A sensor-driven robot that uses colour information and infrared sensing for line following and path correction.
+
 - Integrated colour and infrared sensors for autonomous line following.
 - Developed colour-based navigation and path-correction logic.
 - Calibrated sensor responses under varying lighting conditions.
 
-## Research and Experimental Engineering
+## Robot Learning and Research
 
 ### GPI and World Models for Robot Manipulation
 
 *HiRo Lab, IISc · May–July 2026*
+
+Research on geometry-aware demonstration retrieval and predictive models for more consequence-aware robot manipulation.
 
 - Investigated Geometry-aware Policy Imitation (GPI) and policy-averaging failures under homotopy ambiguity.
 - Developed one-step and direct multi-step world models for dynamics prediction.
 - Integrated predicted future rewards into GPI for consequence-aware trajectory retrieval.
 - Implemented closed-loop Panda manipulation in MuJoCo.
 
+## Experimental Engineering
+
 ### Automated Rice Characterization System
 
 *B.Tech Project · August 2026–Present*
+
+An experimental system for monitoring rice-grain behaviour during soaking and cooking using imaging and temperature feedback.
 
 - Developed a system integrating Raspberry Pi, camera, and thermocouples for rice-grain characterization.
 - Implemented computer-vision methods for grain segmentation, geometric measurement, and deformation tracking.
@@ -73,6 +96,8 @@ My projects span autonomous robotics, robot learning, mechanical design, embedde
 ### Model CubeSat
 
 *CAE Club, IIT Indore · October–November 2024*
+
+A model satellite project combining onboard sensing, electronics integration, and real-time parameter monitoring.
 
 - Integrated environmental and orientation sensors for onboard sensing and positioning.
 - Designed and assembled a custom PCB for sensor connectivity.
