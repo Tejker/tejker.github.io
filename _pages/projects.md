@@ -26,9 +26,12 @@ An autonomous mobile robot designed around warehouse rack inventory tasks, combi
 
 </div>
 
+
+<div class="project-card">
+
 ### 3D-Printed Quadruped Robot
 
-*Design of Machine Elements Course Project · January–April 2026*
+<p class="project-meta">Design of Machine Elements Course Project · January–April 2026</p>
 
 A four-legged robotic platform exploring linkage-based leg actuation, hardware integration, and coordinated locomotion.
 
@@ -36,9 +39,14 @@ A four-legged robotic platform exploring linkage-based leg actuation, hardware i
 - Led hardware integration, including servo motors, power architecture, assembly, and testing.
 - Implemented crawl and diagonal-pair gait strategies using Arduino.
 
+</div>
+
+
+<div class="project-card">
+
 ### Autonomous Lawn Mower
 
-*Academic Project · August 2025–Present*
+<p class="project-meta">Academic Project · August 2025–Present</p>
 
 A mobile cutting platform focused on mechanical design, drive-system integration, and autonomous navigation.
 
@@ -46,9 +54,14 @@ A mobile cutting platform focused on mechanical design, drive-system integration
 - Integrated Raspberry Pi and control circuitry to enable navigation along defined paths.
 - Focused on mechanical structure, drive-system configuration, and hardware integration.
 
+</div>
+
+
+<div class="project-card">
+
 ### Micromouse — Maze-Solving Robot
 
-*Robotics Club · July 2024–January 2025*
+<p class="project-meta">Robotics Club · July 2024–January 2025</p>
 
 A compact mobile robot combining onboard sensing, real-time control, and custom electronics for maze navigation.
 
@@ -56,9 +69,14 @@ A compact mobile robot combining onboard sensing, real-time control, and custom 
 - Used a hybrid STM32–Arduino architecture for hardware integration and real-time control.
 - Designed and tested a PCB to streamline circuitry and improve compactness.
 
+</div>
+
+
+<div class="project-card">
+
 ### Colour-Detecting Line-Follower Robot
 
-*Makerspace Lab, IIT Indore · March–April 2024*
+<p class="project-meta">Makerspace Lab, IIT Indore · March–April 2024</p>
 
 A sensor-driven robot that uses colour information and infrared sensing for line following and path correction.
 
@@ -66,11 +84,16 @@ A sensor-driven robot that uses colour information and infrared sensing for line
 - Developed colour-based navigation and path-correction logic.
 - Calibrated sensor responses under varying lighting conditions.
 
+</div>
+
 ## Robot Learning and Research
+
+
+<div class="project-card">
 
 ### GPI and World Models for Robot Manipulation
 
-*HiRo Lab, IISc · May–July 2026*
+<p class="project-meta">HiRo Lab, IISc · May–July 2026</p>
 
 Research on geometry-aware demonstration retrieval and predictive models for more consequence-aware robot manipulation.
 
@@ -79,11 +102,16 @@ Research on geometry-aware demonstration retrieval and predictive models for mor
 - Integrated predicted future rewards into GPI for consequence-aware trajectory retrieval.
 - Implemented closed-loop Panda manipulation in MuJoCo.
 
+</div>
+
 ## Experimental Engineering
+
+
+<div class="project-card">
 
 ### Automated Rice Characterization System
 
-*B.Tech Project · August 2026–Present*
+<p class="project-meta">B.Tech Project · August 2026–Present</p>
 
 An experimental system for monitoring rice-grain behaviour during soaking and cooking using imaging and temperature feedback.
 
@@ -92,12 +120,20 @@ An experimental system for monitoring rice-grain behaviour during soaking and co
 - Developed growth-rate-based saturation detection for autonomous soaking-to-cooking stage transitions.
 - Designed closed-loop temperature control using thermocouple feedback and relay-based heater actuation.
 
+</div>
+
+
+<div class="project-card">
+
 ### Model CubeSat
 
-*CAE Club, IIT Indore · October–November 2024*
+<p class="project-meta">CAE Club, IIT Indore · October–November 2024</p>
 
 A model satellite project combining onboard sensing, electronics integration, and real-time parameter monitoring.
 
 - Integrated environmental and orientation sensors for onboard sensing and positioning.
 - Designed and assembled a custom PCB for sensor connectivity.
 - Developed a real-time GUI to monitor critical flight parameters.
+
+</div>
+
