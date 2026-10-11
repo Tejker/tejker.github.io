@@ -5,20 +5,17 @@ layout: single
 author_profile: true
 ---
 
----
-title: "Projects"
-permalink: /projects/
-layout: single
-author_profile: true
----
 
 My projects span **autonomous robotics, robot learning, mechatronics, and experimental engineering**. I enjoy building complete systems that bring together mechanical design, embedded hardware, sensing, control, and intelligent algorithms.
 
 ## Robotics and Autonomous Systems
 
+
+<div class="project-card">
+
 ### Autonomous Rover for Warehouse Rack Inventory Management
 
-*Inter IIT Tech Meet 14.0 · November–December 2025*
+<p class="project-meta">Inter IIT Tech Meet 14.0 · November–December 2025</p>
 
 An autonomous mobile robot designed around warehouse rack inventory tasks, combining a mobile platform with a vertical scanning mechanism.
 
@@ -26,6 +23,8 @@ An autonomous mobile robot designed around warehouse rack inventory tasks, combi
 - Implemented a belt-driven vertical scanning mechanism using a stepper motor for multi-level shelf scanning.
 - Integrated encoders, sensors, and custom wiring harnesses for electromechanical operation.
 - Developed battery monitoring, voltage regulation, and emergency-stop hardware.
+
+</div>
 
 ### 3D-Printed Quadruped Robot
 
