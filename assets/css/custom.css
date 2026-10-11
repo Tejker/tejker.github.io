@@ -182,3 +182,59 @@ hr {
   margin-bottom: 0.35em;
 }
 
+
+/* Portfolio project-card foundation */
+.project-card {
+  background: var(--portfolio-white);
+  border: 1px solid var(--portfolio-border);
+  border-radius: 12px;
+  padding: 1.35em 1.5em;
+  margin: 1.25em 0;
+  box-shadow: 0 3px 12px rgba(23, 38, 60, 0.035);
+  transition: border-color 180ms ease, box-shadow 180ms ease,
+    transform 180ms ease;
+}
+
+.project-card:hover {
+  border-color: #c9a77d;
+  box-shadow: 0 8px 24px rgba(23, 38, 60, 0.075);
+  transform: translateY(-2px);
+}
+
+.project-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.35em;
+}
+
+.project-card p:last-child,
+.project-card ul:last-child {
+  margin-bottom: 0;
+}
+
+.project-meta {
+  color: var(--portfolio-muted);
+  font-size: 0.86rem;
+  margin-bottom: 0.8em;
+}
+
+@media (max-width: 768px) {
+  .project-card {
+    padding: 1em;
+    border-radius: 9px;
+  }
+
+  .project-card:hover {
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .project-card {
+    transition: none;
+  }
+
+  .project-card:hover {
+    transform: none;
+  }
+}
+
