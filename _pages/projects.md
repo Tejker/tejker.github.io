@@ -11,8 +11,7 @@ My projects span **autonomous robotics, robot learning, mechatronics, and experi
 ## Robotics and Autonomous Systems
 
 
-<div class="project-card">
-
+<div class="project-card" markdown="1">
 ### Autonomous Rover for Warehouse Rack Inventory Management
 
 <p class="project-meta">Inter IIT Tech Meet 14.0 · November–December 2025</p>
@@ -27,8 +26,7 @@ An autonomous mobile robot designed around warehouse rack inventory tasks, combi
 </div>
 
 
-<div class="project-card">
-
+<div class="project-card" markdown="1">
 ### 3D-Printed Quadruped Robot
 
 <p class="project-meta">Design of Machine Elements Course Project · January–April 2026</p>
@@ -42,8 +40,7 @@ A four-legged robotic platform exploring linkage-based leg actuation, hardware i
 </div>
 
 
-<div class="project-card">
-
+<div class="project-card" markdown="1">
 ### Autonomous Lawn Mower
 
 <p class="project-meta">Academic Project · August 2025–Present</p>
@@ -57,8 +54,7 @@ A mobile cutting platform focused on mechanical design, drive-system integration
 </div>
 
 
-<div class="project-card">
-
+<div class="project-card" markdown="1">
 ### Micromouse — Maze-Solving Robot
 
 <p class="project-meta">Robotics Club · July 2024–January 2025</p>
@@ -72,8 +68,7 @@ A compact mobile robot combining onboard sensing, real-time control, and custom 
 </div>
 
 
-<div class="project-card">
-
+<div class="project-card" markdown="1">
 ### Colour-Detecting Line-Follower Robot
 
 <p class="project-meta">Makerspace Lab, IIT Indore · March–April 2024</p>
@@ -89,8 +84,7 @@ A sensor-driven robot that uses colour information and infrared sensing for line
 ## Robot Learning and Research
 
 
-<div class="project-card">
-
+<div class="project-card" markdown="1">
 ### GPI and World Models for Robot Manipulation
 
 <p class="project-meta">HiRo Lab, IISc · May–July 2026</p>
@@ -107,8 +101,7 @@ Research on geometry-aware demonstration retrieval and predictive models for mor
 ## Experimental Engineering
 
 
-<div class="project-card">
-
+<div class="project-card" markdown="1">
 ### Automated Rice Characterization System
 
 <p class="project-meta">B.Tech Project · August 2026–Present</p>
@@ -123,8 +116,7 @@ An experimental system for monitoring rice-grain behaviour during soaking and co
 </div>
 
 
-<div class="project-card">
-
+<div class="project-card" markdown="1">
 ### Model CubeSat
 
 <p class="project-meta">CAE Club, IIT Indore · October–November 2024</p>
