@@ -56,9 +56,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tejker"
-    - label: "Phone"
-      icon: "fas fa-fw fa-phone"
-      url: "tel:+918425910120"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:bhavekar.tejas@gmail.com"
+
 
 defaults:
 
