@@ -47,15 +47,18 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tejker"
 
+
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/"
-
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tejker"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+918425910120"
 
 defaults:
 
