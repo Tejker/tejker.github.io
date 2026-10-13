@@ -12,6 +12,19 @@ My projects span **autonomous robotics, robot learning, mechatronics, and experi
 
 
 <div class="project-card" markdown="1">
+
+<div class="project-media">
+  <img src="/assets/images/rover2.jpg"
+       alt="Autonomous warehouse scanning rover"
+       loading="lazy">
+</div>
+
+<div class="project-media">
+  <img src="/assets/images/rover_label.png"
+       alt="Warehouse rover and its scanning system"
+       loading="lazy">
+</div>
+
 ### Autonomous Rover for Warehouse Rack Inventory Management
 
 <p class="project-meta">Inter IIT Tech Meet 14.0 · November–December 2025</p>
@@ -27,6 +40,21 @@ An autonomous mobile robot designed around warehouse rack inventory tasks, combi
 
 
 <div class="project-card" markdown="1">
+
+<div class="project-media">
+  <img src="/assets/images/quadraped.jpg"
+       alt="3D-printed quadruped robot prototype"
+       loading="lazy">
+</div>
+
+<div class="project-media">
+  <video autoplay muted loop playsinline preload="metadata"
+         aria-label="Quadruped robot demonstrating its gait">
+    <source src="/assets/images/quadraped_v.mp4" type="video/mp4">
+    Your browser does not support HTML video.
+  </video>
+</div>
+
 ### 3D-Printed Quadruped Robot
 
 <p class="project-meta">Design of Machine Elements Course Project · January–April 2026</p>
@@ -85,6 +113,19 @@ A sensor-driven robot that uses colour information and infrared sensing for line
 
 
 <div class="project-card" markdown="1">
+
+<div class="project-media">
+  <img src="/assets/images/iisc1.png"
+       alt="Robot learning research and manipulation setup"
+       loading="lazy">
+</div>
+
+<div class="project-media">
+  <img src="/assets/images/iisc2_gif.gif"
+       alt="Animated visualization of robot manipulation research"
+       loading="lazy">
+</div>
+
 ### GPI and World Models for Robot Manipulation
 
 <p class="project-meta">HiRo Lab, IISc · May–July 2026</p>
@@ -102,6 +143,19 @@ Research on geometry-aware demonstration retrieval and predictive models for mor
 
 
 <div class="project-card" markdown="1">
+
+<div class="project-media">
+  <img src="/assets/images/rice1.png"
+       alt="Rice characterization experimental setup"
+       loading="lazy">
+</div>
+
+<div class="project-media">
+  <img src="/assets/images/rice2.png"
+       alt="Rice grain monitoring and characterization apparatus"
+       loading="lazy">
+</div>
+
 ### Automated Rice Characterization System
 
 <p class="project-meta">B.Tech Project · August 2026–Present</p>
