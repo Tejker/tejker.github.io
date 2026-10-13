@@ -69,6 +69,15 @@ A four-legged robotic platform exploring linkage-based leg actuation, hardware i
 
 
 <div class="project-card" markdown="1">
+
+<div class="project-media">
+  <video autoplay muted loop playsinline preload="metadata"
+         aria-label="Autonomous lawn mower project demonstration">
+    <source src="/assets/images/projects/Lawnmover_video.mp4" type="video/mp4">
+    Your browser does not support HTML video.
+  </video>
+</div>
+
 ### Autonomous Lawn Mower
 
 <p class="project-meta">Academic Project · August 2025–Present</p>
