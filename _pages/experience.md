@@ -10,6 +10,19 @@ My research experience spans robot learning, autonomous systems, predictive main
 ## Research Experience
 
 ### Human-Interactive Robotics Lab (HiRo Lab)
+<div class="project-card" markdown="1">
+
+<div class="project-media">
+  <img src="/assets/images/projects/iisc1.png"
+       alt="Robot learning research and manipulation setup"
+       loading="lazy">
+</div>
+
+<div class="project-media">
+  <img src="/assets/images/projects/iisc2_gif.gif"
+       alt="Animated visualization of robot manipulation research"
+       loading="lazy">
+</div>
 
 **Indian Institute of Science (IISc), Bengaluru** · *May–July 2026*
 
