@@ -13,6 +13,9 @@ repository: "Tejker/tejker.github.io"
 
 github_username: Tejker
 
+atom_feed:
+  hide: true
+
 minimal_mistakes_skin: "default"
 sass:
   sass_dir: assets/css
