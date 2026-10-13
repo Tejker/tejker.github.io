@@ -12,6 +12,19 @@ My projects span **autonomous robotics, robot learning, mechatronics, and experi
 
 
 <div class="project-card" markdown="1">
+
+<div class="project-media">
+  <img src="/assets/images/rover2.jpg"
+       alt="Autonomous warehouse scanning rover"
+       loading="lazy">
+</div>
+
+<div class="project-media">
+  <img src="/assets/images/rover_label.png"
+       alt="Warehouse rover and its scanning system"
+       loading="lazy">
+</div>
+
 ### Autonomous Rover for Warehouse Rack Inventory Management
 
 <p class="project-meta">Inter IIT Tech Meet 14.0 · November–December 2025</p>
