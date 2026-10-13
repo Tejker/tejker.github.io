@@ -14,13 +14,13 @@ My projects span **autonomous robotics, robot learning, mechatronics, and experi
 <div class="project-card" markdown="1">
 
 <div class="project-media">
-  <img src="/assets/images/rover2.jpg"
+  <img src="/assets/images/projects/rover2.jpg"
        alt="Autonomous warehouse scanning rover"
        loading="lazy">
 </div>
 
 <div class="project-media">
-  <img src="/assets/images/rover_label.png"
+  <img src="/assets/images/projects/rover_label.png"
        alt="Warehouse rover and its scanning system"
        loading="lazy">
 </div>
@@ -42,7 +42,7 @@ An autonomous mobile robot designed around warehouse rack inventory tasks, combi
 <div class="project-card" markdown="1">
 
 <div class="project-media">
-  <img src="/assets/images/quadraped.jpg"
+  <img src="/assets/images/projects/quadraped.jpg"
        alt="3D-printed quadruped robot prototype"
        loading="lazy">
 </div>
@@ -50,7 +50,7 @@ An autonomous mobile robot designed around warehouse rack inventory tasks, combi
 <div class="project-media">
   <video autoplay muted loop playsinline preload="metadata"
          aria-label="Quadruped robot demonstrating its gait">
-    <source src="/assets/images/quadraped_v.mp4" type="video/mp4">
+    <source src="/assets/images/projects/quadraped_v.mp4" type="video/mp4">
     Your browser does not support HTML video.
   </video>
 </div>
@@ -69,6 +69,15 @@ A four-legged robotic platform exploring linkage-based leg actuation, hardware i
 
 
 <div class="project-card" markdown="1">
+
+<div class="project-media">
+  <video autoplay muted loop playsinline preload="metadata"
+         aria-label="Autonomous lawn mower project demonstration">
+    <source src="/assets/images/projects/Lawnmover_video.mp4" type="video/mp4">
+    Your browser does not support HTML video.
+  </video>
+</div>
+
 ### Autonomous Lawn Mower
 
 <p class="project-meta">Academic Project · August 2025–Present</p>
@@ -81,6 +90,31 @@ A mobile cutting platform focused on mechanical design, drive-system integration
 
 </div>
 
+<div class="project-card" markdown="1">
+
+<div class="project-media">
+  <img src="/assets/images/projects/Model Images (1).jpg"
+       alt="Model CubeSat project"
+       loading="lazy">
+</div>
+
+<div class="project-media">
+  <img src="/assets/images/projects/hardware components (2).jpg"
+       alt="Model CubeSat hardware and electronics integration"
+       loading="lazy">
+</div>
+
+### Model CubeSat
+
+<p class="project-meta">CAE Club, IIT Indore · October–November 2024</p>
+
+A model satellite project combining onboard sensing, electronics integration, and real-time parameter monitoring.
+
+- Integrated environmental and orientation sensors for onboard sensing and positioning.
+- Designed and assembled a custom PCB for sensor connectivity.
+- Developed a real-time GUI to monitor critical flight parameters.
+
+</div>
 
 <div class="project-card" markdown="1">
 ### Micromouse — Maze-Solving Robot
@@ -109,19 +143,20 @@ A sensor-driven robot that uses colour information and infrared sensing for line
 
 </div>
 
-## Robot Learning and Research
+
+<!-- ## Robot Learning and Research 
 
 
 <div class="project-card" markdown="1">
 
 <div class="project-media">
-  <img src="/assets/images/iisc1.png"
+  <img src="/assets/images/projects/iisc1.png"
        alt="Robot learning research and manipulation setup"
        loading="lazy">
 </div>
 
 <div class="project-media">
-  <img src="/assets/images/iisc2_gif.gif"
+  <img src="/assets/images/projects/iisc2_gif.gif"
        alt="Animated visualization of robot manipulation research"
        loading="lazy">
 </div>
@@ -137,7 +172,7 @@ Research on geometry-aware demonstration retrieval and predictive models for mor
 - Integrated predicted future rewards into GPI for consequence-aware trajectory retrieval.
 - Implemented closed-loop Panda manipulation in MuJoCo.
 
-</div>
+</div> -->
 
 ## Experimental Engineering
 
@@ -145,13 +180,13 @@ Research on geometry-aware demonstration retrieval and predictive models for mor
 <div class="project-card" markdown="1">
 
 <div class="project-media">
-  <img src="/assets/images/rice1.png"
+  <img src="/assets/images/projects/rice1.png"
        alt="Rice characterization experimental setup"
        loading="lazy">
 </div>
 
 <div class="project-media">
-  <img src="/assets/images/rice2.png"
+  <img src="/assets/images/projects/rice2.png"
        alt="Rice grain monitoring and characterization apparatus"
        loading="lazy">
 </div>
@@ -169,17 +204,20 @@ An experimental system for monitoring rice-grain behaviour during soaking and co
 
 </div>
 
-
 <div class="project-card" markdown="1">
-### Model CubeSat
 
-<p class="project-meta">CAE Club, IIT Indore · October–November 2024</p>
+### ATTIS — Acoustic Tracking and Target Identification System
 
-A model satellite project combining onboard sensing, electronics integration, and real-time parameter monitoring.
+*Hardware and signal-processing project*
 
-- Integrated environmental and orientation sensors for onboard sensing and positioning.
-- Designed and assembled a custom PCB for sensor connectivity.
-- Developed a real-time GUI to monitor critical flight parameters.
+A system focused on acoustic tracking and target identification, combining sensing hardware with signal-processing and embedded-system integration.
+
+- Developed the ATTIS project as an integrated acoustic sensing and target-identification system.
+- See the repository for implementation details, code, and supporting documentation.
+
+<p class="project-links">
+  <a href="https://github.com/Tejker/ATTIS---Acoustic-Tracking-and-Target-Identification-System" target="_blank" rel="noopener noreferrer">View on GitHub ↗</a>
+</p>
 
 </div>
 
