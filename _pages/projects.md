@@ -40,6 +40,21 @@ An autonomous mobile robot designed around warehouse rack inventory tasks, combi
 
 
 <div class="project-card" markdown="1">
+
+<div class="project-media">
+  <img src="/assets/images/quadraped.jpg"
+       alt="3D-printed quadruped robot prototype"
+       loading="lazy">
+</div>
+
+<div class="project-media">
+  <video autoplay muted loop playsinline preload="metadata"
+         aria-label="Quadruped robot demonstrating its gait">
+    <source src="/assets/images/quadraped_v.mp4" type="video/mp4">
+    Your browser does not support HTML video.
+  </video>
+</div>
+
 ### 3D-Printed Quadruped Robot
 
 <p class="project-meta">Design of Machine Elements Course Project · January–April 2026</p>
