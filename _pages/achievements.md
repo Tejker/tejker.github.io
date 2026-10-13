@@ -19,6 +19,20 @@ Contributed to the warehouse inventory rover project, integrating mechanical sys
 
 Recognized for work involving CubeSat design and modelling, material selection, design, and finite element analysis (FEA).
 
+## Extracurricular Achievements
+
+### Gold Medal — General Championship, Football
+
+*2026 · Intra-College Sports Tournament*
+
+### Silver Medal — General Championship, Football
+
+*2025 · Intra-College Sports Tournament*
+
+### Bronze Medal — T vs M
+
+*2024 · IIT Indore vs IIM Indore Tournament, Turncoat*
+
 ## Leadership and Responsibilities
 
 ### President — Robotics Club, IIT Indore

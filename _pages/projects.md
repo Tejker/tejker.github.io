@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-My projects span **autonomous robotics, robot learning, mechatronics, and experimental engineering**. I enjoy building complete systems that bring together mechanical design, embedded hardware, sensing, control, and intelligent algorithms.
+My projects span **Autonomous Robotics, Mechatronics, Robot Learning, and Experimental Engineering**. I enjoy building complete systems that bring together Mechanical Design, Embedded Hardware, Sensing, Control, and Intelligent algorithms.
 
 ## Robotics and Autonomous Systems
 
@@ -35,7 +35,9 @@ An autonomous mobile robot designed around warehouse rack inventory tasks, combi
 - Implemented a belt-driven vertical scanning mechanism using a stepper motor for multi-level shelf scanning.
 - Integrated encoders, sensors, and custom wiring harnesses for electromechanical operation.
 - Developed battery monitoring, voltage regulation, and emergency-stop hardware.
-
+<p class="project-links">
+  <a href="https://drive.google.com/drive/folders/1Dpu3XBCPuy6WL9axY7j5k-9ItiajuLTi" target="_blank" rel="noopener noreferrer">View project files ↗</a>
+</p>
 </div>
 
 
@@ -64,7 +66,9 @@ A four-legged robotic platform exploring linkage-based leg actuation, hardware i
 - Developed a quadruped robot using a four-bar linkage mechanism for leg actuation and balance.
 - Led hardware integration, including servo motors, power architecture, assembly, and testing.
 - Implemented crawl and diagonal-pair gait strategies using Arduino.
-
+<p class="project-links">
+  <a href="https://github.com/Tejker/3D-Printed-Quadruped-Robot-with-Four-bar-mechanism" target="_blank" rel="noopener noreferrer">View on GitHub ↗</a>
+</p>
 </div>
 
 
@@ -87,7 +91,9 @@ A mobile cutting platform focused on mechanical design, drive-system integration
 - Designed and assembled a remote-controlled lawn mower using motor drivers, sensors, and embedded hardware.
 - Integrated Raspberry Pi and control circuitry to enable navigation along defined paths.
 - Focused on mechanical structure, drive-system configuration, and hardware integration.
-
+<p class="project-links">
+  <a href="https://drive.google.com/drive/folders/12TlQoWHouyZHbZn9Owf3ZpyFaov9lusr" target="_blank" rel="noopener noreferrer">View project files ↗</a>
+</p>
 </div>
 
 <div class="project-card" markdown="1">
@@ -113,7 +119,9 @@ A model satellite project combining onboard sensing, electronics integration, an
 - Integrated environmental and orientation sensors for onboard sensing and positioning.
 - Designed and assembled a custom PCB for sensor connectivity.
 - Developed a real-time GUI to monitor critical flight parameters.
-
+<p class="project-links">
+  <a href="https://github.com/Vedansh7-7/CubeSat" target="_blank" rel="noopener noreferrer">View on GitHub ↗</a>
+</p>
 </div>
 
 <div class="project-card" markdown="1">
@@ -140,7 +148,9 @@ A sensor-driven robot that uses colour information and infrared sensing for line
 - Integrated colour and infrared sensors for autonomous line following.
 - Developed colour-based navigation and path-correction logic.
 - Calibrated sensor responses under varying lighting conditions.
-
+<p class="project-links">
+  <a href="https://github.com/Tejker/Color-sensing-line-follower-robot" target="_blank" rel="noopener noreferrer">View on GitHub ↗</a>
+</p>
 </div>
 
 
