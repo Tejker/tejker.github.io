@@ -249,7 +249,8 @@ a:hover {
   border: 1px solid #dbe2ea;
 }
 
-.project-media img {
+.project-media img,
+.project-media video {
   display: block;
   width: 100%;
   height: auto;
