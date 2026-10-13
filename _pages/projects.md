@@ -84,13 +84,13 @@ A mobile cutting platform focused on mechanical design, drive-system integration
 <div class="project-card" markdown="1">
 
 <div class="project-media">
-  <img src="/assets/images/projects/cubesat1.png"
+  <img src="/assets/images/projects/Model Images (1).jpg"
        alt="Model CubeSat project"
        loading="lazy">
 </div>
 
 <div class="project-media">
-  <img src="/assets/images/projects/cubesat2.png"
+  <img src="/assets/images/projects/hardware components (2).jpg"
        alt="Model CubeSat hardware and electronics integration"
        loading="lazy">
 </div>
