@@ -81,6 +81,31 @@ A mobile cutting platform focused on mechanical design, drive-system integration
 
 </div>
 
+<div class="project-card" markdown="1">
+
+<div class="project-media">
+  <img src="/assets/images/projects/cubesat1.png"
+       alt="Model CubeSat project"
+       loading="lazy">
+</div>
+
+<div class="project-media">
+  <img src="/assets/images/projects/cubesat2.png"
+       alt="Model CubeSat hardware and electronics integration"
+       loading="lazy">
+</div>
+
+### Model CubeSat
+
+<p class="project-meta">CAE Club, IIT Indore · October–November 2024</p>
+
+A model satellite project combining onboard sensing, electronics integration, and real-time parameter monitoring.
+
+- Integrated environmental and orientation sensors for onboard sensing and positioning.
+- Designed and assembled a custom PCB for sensor connectivity.
+- Developed a real-time GUI to monitor critical flight parameters.
+
+</div>
 
 <div class="project-card" markdown="1">
 ### Micromouse — Maze-Solving Robot
@@ -106,23 +131,6 @@ A sensor-driven robot that uses colour information and infrared sensing for line
 - Integrated colour and infrared sensors for autonomous line following.
 - Developed colour-based navigation and path-correction logic.
 - Calibrated sensor responses under varying lighting conditions.
-
-</div>
-
-<div class="project-card" markdown="1">
-
-### ATTIS — Acoustic Tracking and Target Identification System
-
-*Hardware and signal-processing project*
-
-A system focused on acoustic tracking and target identification, combining sensing hardware with signal-processing and embedded-system integration.
-
-- Developed the ATTIS project as an integrated acoustic sensing and target-identification system.
-- See the repository for implementation details, code, and supporting documentation.
-
-<p class="project-links">
-  <a href="https://github.com/Tejker/ATTIS---Acoustic-Tracking-and-Target-Identification-System" target="_blank" rel="noopener noreferrer">View on GitHub ↗</a>
-</p>
 
 </div>
 
@@ -187,17 +195,20 @@ An experimental system for monitoring rice-grain behaviour during soaking and co
 
 </div>
 
-
 <div class="project-card" markdown="1">
-### Model CubeSat
 
-<p class="project-meta">CAE Club, IIT Indore · October–November 2024</p>
+### ATTIS — Acoustic Tracking and Target Identification System
 
-A model satellite project combining onboard sensing, electronics integration, and real-time parameter monitoring.
+*Hardware and signal-processing project*
 
-- Integrated environmental and orientation sensors for onboard sensing and positioning.
-- Designed and assembled a custom PCB for sensor connectivity.
-- Developed a real-time GUI to monitor critical flight parameters.
+A system focused on acoustic tracking and target identification, combining sensing hardware with signal-processing and embedded-system integration.
+
+- Developed the ATTIS project as an integrated acoustic sensing and target-identification system.
+- See the repository for implementation details, code, and supporting documentation.
+
+<p class="project-links">
+  <a href="https://github.com/Tejker/ATTIS---Acoustic-Tracking-and-Target-Identification-System" target="_blank" rel="noopener noreferrer">View on GitHub ↗</a>
+</p>
 
 </div>
 
