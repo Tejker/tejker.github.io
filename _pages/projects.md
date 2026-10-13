@@ -135,7 +135,7 @@ A sensor-driven robot that uses colour information and infrared sensing for line
 </div>
 
 
-## Robot Learning and Research
+<!-- ## Robot Learning and Research 
 
 
 <div class="project-card" markdown="1">
@@ -163,7 +163,7 @@ Research on geometry-aware demonstration retrieval and predictive models for mor
 - Integrated predicted future rewards into GPI for consequence-aware trajectory retrieval.
 - Implemented closed-loop Panda manipulation in MuJoCo.
 
-</div>
+</div> -->
 
 ## Experimental Engineering
 
