@@ -24,7 +24,7 @@ My research experience spans robot learning, autonomous systems, predictive main
 ### IASc–INSA–NASI Summer Research Fellowship (SRFP)
 
 <div class="project-media">
-  <img src="/assets/images/telescope.png"
+  <img src="/assets/images/projects/telescope.png"
        alt="Telescope research at ARIES, Nainital"
        loading="lazy">
 </div>
