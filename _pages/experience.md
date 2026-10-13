@@ -23,6 +23,12 @@ My research experience spans robot learning, autonomous systems, predictive main
 
 ### IASc–INSA–NASI Summer Research Fellowship (SRFP)
 
+<div class="project-media">
+  <img src="/assets/images/telescope.png"
+       alt="Telescope research at ARIES, Nainital"
+       loading="lazy">
+</div>
+
 **ARIES, Nainital** · *May–July 2025*
 
 *Research Intern · Under Shri Tarun Bangia*
